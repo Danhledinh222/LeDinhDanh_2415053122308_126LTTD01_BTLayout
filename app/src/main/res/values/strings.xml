@@ -1,3 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">LeDinhDanh_BtLayout</string>
+    <string name="app_name">Calculator Tool</string>
+    <string name="screen_subtitle">Thực hành Views và Layouts</string>
+
+    <string name="hint_num1">Nhập số thứ nhất</string>
+    <string name="hint_num2">Nhập số thứ hai</string>
+    <string name="choose_operation">CHỌN PHÉP TÍNH</string>
+
+    <string name="op_add">+</string>
+    <string name="op_sub">−</string>
+    <string name="op_mul">×</string>
+    <string name="op_div">÷</string>
+
+    <string name="desc_add">Cộng</string>
+    <string name="desc_sub">Trừ</string>
+    <string name="desc_mul">Nhân</string>
+    <string name="desc_div">Chia</string>
+
+    <string name="round_result">Làm tròn 2 chữ số thập phân</string>
+    <string name="btn_calculate">Tính kết quả</string>
+    <string name="result_label">KẾT QUẢ</string>
+    <string name="result_placeholder">Chưa có kết quả</string>
+
+    <string name="err_invalid_number">Vui lòng nhập số hợp lệ!</string>
+    <string name="err_div_zero">Không thể chia cho 0!</string>
+    <string name="err_no_operation">Vui lòng chọn phép tính!</string>
+    <string name="err_out_of_range">Kết quả vượt phạm vi tính toán!</string>
 </resources>
